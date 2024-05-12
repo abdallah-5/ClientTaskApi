@@ -1,0 +1,12 @@
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Core\bin\Debug\net6.0\ClientTask.Core.deps.json
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Core\bin\Debug\net6.0\ClientTask.Core.dll
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Core\bin\Debug\net6.0\ClientTask.Core.pdb
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Core\obj\Debug\net6.0\ClientTask.Core.csproj.AssemblyReference.cache
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Core\obj\Debug\net6.0\ClientTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Core\obj\Debug\net6.0\ClientTask.Core.AssemblyInfoInputs.cache
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Core\obj\Debug\net6.0\ClientTask.Core.AssemblyInfo.cs
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Core\obj\Debug\net6.0\ClientTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Core\obj\Debug\net6.0\ClientTask.Core.dll
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Core\obj\Debug\net6.0\refint\ClientTask.Core.dll
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Core\obj\Debug\net6.0\ClientTask.Core.pdb
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Core\obj\Debug\net6.0\ref\ClientTask.Core.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0qXdHXe285BTqRqTT6zdYe9Grkf4Na70gKru76ypsUM=",
+  "Source": "ClientTask.API",
+  "BasePath": "_content/ClientTask.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

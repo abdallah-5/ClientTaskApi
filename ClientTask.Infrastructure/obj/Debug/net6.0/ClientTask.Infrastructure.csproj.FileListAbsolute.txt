@@ -1,0 +1,15 @@
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\bin\Debug\net6.0\ClientTask.Infrastructure.deps.json
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\bin\Debug\net6.0\ClientTask.Infrastructure.dll
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\bin\Debug\net6.0\ClientTask.Infrastructure.pdb
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\obj\Debug\net6.0\ClientTask.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\obj\Debug\net6.0\ClientTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\obj\Debug\net6.0\ClientTask.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\obj\Debug\net6.0\ClientTask.Infrastructure.AssemblyInfo.cs
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\obj\Debug\net6.0\ClientTask.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\obj\Debug\net6.0\ClientTask.Infrastructure.dll
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\obj\Debug\net6.0\refint\ClientTask.Infrastructure.dll
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\obj\Debug\net6.0\ClientTask.Infrastructure.pdb
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\obj\Debug\net6.0\ref\ClientTask.Infrastructure.dll
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\bin\Debug\net6.0\ClientTask.Core.dll
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\bin\Debug\net6.0\ClientTask.Core.pdb
+C:\Users\zezo\Desktop\ClientTask\ClientTask.Infrastructure\obj\Debug\net6.0\ClientTask.Infrastructure.csproj.CopyComplete
